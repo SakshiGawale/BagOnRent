@@ -1,13 +1,14 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyBadtpdPpcYu5OUQ3stC-Mdyyndg8-P08Q",
-    authDomain: "orderform-1fd14.firebaseapp.com",
-    databaseURL: "https://orderform-1fd14-default-rtdb.firebaseio.com",
-    projectId: "orderform-1fd14",
-    storageBucket: "orderform-1fd14.appspot.com",
-    messagingSenderId: "359465529613",
-    appId: "1:359465529613:web:670b80a0123f3586518044",
-    measurementId: "G-F3G9B58RWW"
-  };
+  apiKey: "AIzaSyA6DIBIW6B3yJdoCPpMq3A5MZrXTD0aCvU",
+  authDomain: "bag-on-rent.firebaseapp.com",
+  databaseURL: "https://bag-on-rent-default-rtdb.firebaseio.com",
+  projectId: "bag-on-rent",
+  storageBucket: "bag-on-rent.appspot.com",
+  messagingSenderId: "678481631458",
+  appId: "1:678481631458:web:459bc607bdd9db7d5166bb",
+  measurementId: "G-LXNPQSYR4H"
+};
   firebase.initializeApp(firebaseConfig);
 
 // Reference messages collection
