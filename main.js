@@ -1,13 +1,14 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAb9FC80gVMCAjoimiCBCgo-LEIlO55TFU",
-  authDomain: "contactform-755e2.firebaseapp.com",
-  databaseURL: "https://contactform-755e2-default-rtdb.firebaseio.com",
-  projectId: "contactform-755e2",
-  storageBucket: "contactform-755e2.appspot.com",
-  messagingSenderId: "61555059231",
-  appId: "1:61555059231:web:1d4a7918efa00f8f60832a",
-  measurementId: "G-3RVBC7JEHH"
+  apiKey: "AIzaSyA6DIBIW6B3yJdoCPpMq3A5MZrXTD0aCvU",
+  authDomain: "bag-on-rent.firebaseapp.com",
+  databaseURL: "https://bag-on-rent-default-rtdb.firebaseio.com",
+  projectId: "bag-on-rent",
+  storageBucket: "bag-on-rent.appspot.com",
+  messagingSenderId: "678481631458",
+  appId: "1:678481631458:web:459bc607bdd9db7d5166bb",
+  measurementId: "G-LXNPQSYR4H"
 };
 
 firebase.initializeApp(firebaseConfig);
